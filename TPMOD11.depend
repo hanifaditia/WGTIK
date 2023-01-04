@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670774540 source:c:\users\omen 870\onedrive\tugas\telu\smt 3\struktur data\tp\tp minggu 12\tpmod11\tpmod11\main.cpp
+	"flight.h"
+
+1670774028 source:c:\users\omen 870\onedrive\tugas\telu\smt 3\struktur data\tp\tp minggu 12\tpmod11\tpmod11\flight.cpp
+	"flight.h"
+
+1670772069 c:\users\omen 870\onedrive\tugas\telu\smt 3\struktur data\tp\tp minggu 12\tpmod11\tpmod11\flight.h
+	<iostream>
+
